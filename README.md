@@ -156,13 +156,13 @@ Incorporate lyrical features and sentiment analysis.
 Build a recommendation system based on learned embeddings.
 
 ## How to Run
-´´´shell
+```shell
 git clone git@github.com:malak315/visual_data_exploration.git
 cd visual_data_exploration
 python3 venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-´´´
+```
 
 ## Key Skills Demonstrated
 
