@@ -157,10 +157,10 @@ Build a recommendation system based on learned embeddings.
 
 ## How to Run
 
-git clone https://github.com/yourusername/spotify-music-analysis.git
-
-cd spotify-music-analysis
-
+git clone git@github.com:malak315/visual_data_exploration.git
+cd visual_data_exploration
+python3 venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 
 ## Key Skills Demonstrated
