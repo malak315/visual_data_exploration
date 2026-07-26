@@ -159,9 +159,9 @@ Build a recommendation system based on learned embeddings.
 ```shell
 git clone git@github.com:malak315/visual_data_exploration.git
 cd visual_data_exploration
-python3 venv .venv
+python3 -m venv .venv
 source .venv/bin/activate
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## Key Skills Demonstrated
