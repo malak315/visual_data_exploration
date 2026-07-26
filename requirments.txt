@@ -1,0 +1,16 @@
+notebook
+jupyterlab
+pandas
+numpy
+scipy
+scikit-learn
+umap-learn
+matplotlib
+seaborn
+plotly
+altair
+opentsne
+gym
+kagglehub
+kaggle
+ipywidgets
